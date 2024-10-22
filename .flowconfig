@@ -1,4 +1,4 @@
-[ignore]
+[ignore] top 1 vn not top 2
 ; We fork some components by platform
 .*/*[.]android.js
 
